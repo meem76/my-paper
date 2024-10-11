@@ -46,9 +46,10 @@ Evaluation Metrics:
         Dice score, Aggregate Jaccard Index (AJI), and Panoptic Quality (PQ) scores used for evaluation.
 
  Baseline Models and Performance:
-        Shallow U-Net and Deep U-Net models with dropout layers implemented .
-        Other models evaluated include Attention U-Net, Residual Attention U-Net, Two-stage U-Net, and Dual Decoder U-Net (architectures in respective articles).
-        Residual Attention U-Net achieves best Dice score.
+        Shallow U-Net and Deep U-Net models with dropout layers implemented.
+        
+  Other models evaluated include Attention U-Net, Residual Attention U-Net, Two-stage U-Net, and Dual Decoder U-Net (architectures in respective articles).
+  Residual Attention U-Net achieves best Dice score.
         Dual Decoder U-Net achieves the best average AJI and PQ scores (also achieved the best PQ score in the MoNuSAC challenge).
     
 Dataset Accessibility:
