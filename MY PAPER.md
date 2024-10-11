@@ -5,6 +5,7 @@ Resource
 NuInsSeg dataset:
 --dataset of H&E-stained histological images with fully annotated nuclei and ambiguous area masks.
 Purpose: To support the development and evaluation of supervised deep learning models for nuclei instance segmentation in computational pathology.
+
 Unique feature: Includes ambiguous area masks, which can help improve model robustness and accuracy
 
 
@@ -22,9 +23,6 @@ Semi-automatically generated datasets: like PanNuke, Lizard, and Hou et al
 
 **Limitations of semi-automatically generated datasets: Training on these datasets may introduce a bias towards the reference model and not accurately capture human expert style.
 
-
-
-Tissue sources:
 
 Tissue preparation: Formaldehyde-fixed and embedded in celloidin or paraffin.
 Scanning: WSIs generated using a TissueFAXS scanning system.
