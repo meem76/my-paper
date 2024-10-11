@@ -1,6 +1,7 @@
 Resource 
 --paper : https://www.nature.com/articles/s41597-024-03117-2
  paper code: https://github.com/masih4/NuInsSeg
+
 NuInsSeg dataset:
 --dataset of H&E-stained histological images with fully annotated nuclei and ambiguous area masks.
 Purpose: To support the development and evaluation of supervised deep learning models for nuclei instance segmentation in computational pathology.
